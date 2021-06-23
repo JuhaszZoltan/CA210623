@@ -10,6 +10,7 @@ namespace CA210623
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("just set git");
         }
     }
 }
